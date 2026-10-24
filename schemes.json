@@ -1,0 +1,10 @@
+[
+{"id":"nsp-postmatric","name":"Post Matric Scholarship (NSP)","url":"https://scholarships.gov.in","form_url":"https://scholarships.gov.in/otrapplication/","benefit":"Scholarship for post-matric students","occupations":["student"],"max_income":250000,"min_age":16,"docs":["Aadhaar","Income certificate","Caste certificate","Previous marksheet","Bank passbook"]},
+{"id":"pm-kisan","name":"PM-KISAN Samman Nidhi","url":"https://pmkisan.gov.in","benefit":"Income support for farmer families","occupations":["farmer"],"min_age":18,"docs":["Aadhaar","Land ownership record","Bank passbook linked to Aadhaar"]},
+{"id":"pm-svanidhi","name":"PM SVANidhi","url":"https://pmsvanidhi.mohua.gov.in","benefit":"Working-capital loan for street vendors","occupations":["vendor"],"min_age":18,"docs":["Aadhaar","Vendor certificate or recommendation letter","Bank account"]},
+{"id":"pm-jay","name":"Ayushman Bharat PM-JAY","url":"https://pmjay.gov.in","benefit":"Health cover for eligible families","occupations":["any"],"max_income":300000,"docs":["Aadhaar","Ration card","Income proof"]},
+{"id":"pm-ujjwala","name":"PM Ujjwala Yojana","url":"https://pmuy.gov.in","benefit":"LPG connection for women from eligible households","occupations":["any"],"gender":"female","min_age":18,"docs":["Aadhaar","Ration card","Bank passbook"]},
+{"id":"mudra","name":"PM Mudra Yojana","url":"https://www.mudra.org.in","benefit":"Collateral-free business loans","occupations":["small business","vendor","artisan"],"min_age":18,"docs":["Aadhaar","PAN","Business proof","Bank statement"]},
+{"id":"standup","name":"Stand-Up India","url":"https://www.standupmitra.in","benefit":"Bank loans for SC/ST and women entrepreneurs","occupations":["small business"],"any_of":["SC","ST","female"],"min_age":18,"docs":["Aadhaar","PAN","Caste certificate (if SC/ST)","Project report"]},
+{"id":"vishwakarma","name":"PM Vishwakarma","url":"https://pmvishwakarma.gov.in","benefit":"Skill training, toolkit and credit for artisans","occupations":["artisan"],"min_age":18,"docs":["Aadhaar","Mobile linked to Aadhaar","Bank passbook"]}
+]
